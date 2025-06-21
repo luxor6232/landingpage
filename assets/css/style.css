@@ -1,34 +1,33 @@
-:root{
+:root {
     --color: red;
 }
-body{
+
+body {
     background-color: rgb(242, 243, 237);
 }
-/* .page-footer{
-    background-color: aqua;
-} */
 
 .textos_body {
     color: rgb(243, 117, 43);
 }
 
-.hr_linea{
-    border: 2px solid #32373B;
+.hr_linea {
+    border: 1px solid #32373B;
 }
 
 p {
     color: #232424;
 }
 
-.card_style{
+.card_style {
     border: 2px solid #32373B;
 }
 
 .card-body01 {
     background-color: #32373B;
     border: 2px solid #32373B;
-    
+
 }
+
 .card-imagen {
     background-color: #32373B;
     border: 2px solid #32373B;
@@ -38,4 +37,3 @@ p {
 .icon {
     border-radius: 70%;
 }
-
