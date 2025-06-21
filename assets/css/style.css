@@ -3,11 +3,15 @@
 }
 
 body {
-    background-color: rgb(242, 243, 237);
+    background-color: rgb(211, 211, 209);
+}
+
+.nabvar_bg {
+    background-color: rgba(211, 211, 209, 0.812);
 }
 
 .textos_body {
-    color: rgb(243, 117, 43);
+    color: rgb(84, 110, 122);
 }
 
 .hr_linea {
